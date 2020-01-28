@@ -34,8 +34,8 @@ defaults:
 
 # SITE CONFIGURATION
 baseurl: ''  #leave this alone
-url: "https://yoursite.github.io"   #change this to yours
-title: My name or organisation # site's title
+url: "https://paulaves.github.io"   #change this to yours
+title: Paula # site's title
 description: "A website with blog posts and recipes" # used by search engines
 
 # SITE-SPECIFIC CONFIGURATION
@@ -63,7 +63,7 @@ twitter_username:   #change to your own twitter account
 lang: en_gb
 # change the following to your name or site name
 footer_text:
-    "Copyright 2020 My name"
+    "Copyright 2020 Paula van Eenennaam Sanchez"
   # Icons
   # If you have any of these accounts add them in here
 rss: false  # Make sure you created a feed.xml with feed.xml layout
