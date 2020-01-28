@@ -35,7 +35,7 @@ defaults:
 # SITE CONFIGURATION
 baseurl: ''  #leave this alone
 url: "https://paulaves.github.io"   #change this to yours
-title: My name or organisation # site's title
+title: Paula van Eenennaam Sanchez # site's title
 description: "A website with blog posts and recipes" # used by search engines
 
 # SITE-SPECIFIC CONFIGURATION
@@ -51,12 +51,12 @@ recipemenu: false # you can change to true and a menu of all recipes will appear
 
 # Header and footer text
 # Change this text to yourown
-header_text: My blog and my recipes
+header_text: Digital Publishing
 
 recipecollection: Your recipe collection
 
 # find an image for your own home page and put it into the images folder
-header_feature_image: /uploads/pages.jpg
+header_feature_image: /uploads/qingbao.jpg
 recipe_bookcover: /uploads/bookcover.jpg
 
 twitter_username:   #change to your own twitter account
