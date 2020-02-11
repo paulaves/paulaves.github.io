@@ -51,7 +51,7 @@ recipemenu: false # you can change to true and a menu of all recipes will appear
 
 # Header and footer text
 # Change this text to yourown
-header_text: Digital Publishing
+header_text: Publishing in the Age of the Anthropocene
 
 recipecollection: Your recipe collection
 
