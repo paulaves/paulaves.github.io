@@ -5,7 +5,8 @@ date: 2020-01-30 12:30
 published: true
 header_feature_image: _uploads/usgs1.jpg
 caption:
-tags:    # use [tag1,tag2]
+tags:    
+- Anthropocene # use [tag1,tag2]
 ---
 
 During the last decade the term _Anthropocene_ has gained a lot of media attention. Although the term was first coined during the 1980s, it didn't make it into popular culture until the year 2000, when atmospheric chemist and Nobel laureate Paul Crutzen popularised the term, transforming it into the environmental buzzword that it is today.
