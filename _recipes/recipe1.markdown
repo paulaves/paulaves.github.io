@@ -1,59 +1,112 @@
 ---
 layout: recipe
-title: Moussaka
+title: The Essentials
 date: 2019-10-19
 excerpt_separator: <!--more-->
 published: true
-order:
+order: 1
 tags:
-  - Greek
-  - Meat
-  - Hot
+  - Sauce
+  - Dough
+  - Egg
+  - Preserves
 ---
 
-# Moussaka
+# 1. Sauces
 
 There are variations on this basic recipe, sometimes with no sauce, sometimes with other vegetables. The most common variant in Greece may include zucchini (courgette), part-fried potatoes or sautéed mushrooms in addition to the eggplant.
 
 <!--more-->
 
-[![Moussaka](/_uploads/moussaka.jpg)](/_uploads/moussaka.jpg)
-
-## Ingredients
-
-- 1 kg aubergines (large or/and elongated variety)
-- 160 ml vegetable oil (about 1 teacup)
-- 1 large onion, finely sliced
-- 450 grams minced beef
-- 1 glass white wine (not retsina, but aretsinoto)
-- 350 grams fresh tomatoes,
-- 1400 grams tomatoes, drained of some of their juice and chopped
-- teaspoon ground cinnamon
-- teaspoon ground allspice
-- salt and black pepper
-- 1 teaspoon oregano
-- 25 grams grated Parmesan, Kefalotiri, or Gruyere cheese
-- some chopped parsley
-- 80 grams butter
-- 80 grams flour
-- 600 ml warm milk
-- 30 grams grated Parmesan or Gruyere cheese
-- 2 egg yolks
-- 4 tablespoons toasted breadcrumbs
 
 
-## Method
+## 1.1 Pesto
 
-Moussaka should be baked in the oven. Use a roasting container, either square or oblong, approximately 25 x 25 cm or 39 x 28 cm. It is recommended that you spread the work involved over two days for your convenience; one can easily cook the meat the day before, without the Moussaka suffering at all. Do not do the same with the aubergines; they should be fried on the day.
+### Ingredients
 
-Top and tail the aubergines, without peeling them. Rinse them, cut them lengthways in 75-mm thick slices and immerse them in salted water, for 30 minutes. Take them out, squeeze gently, rinse, then squeeze them again. Drain them in a colander and pat dry. Fry them in hot vegetable oil until they become pale golden on both sides; you can either deep-fry them, which is easier but they absorb a lot of oil, or shallow-fry them. In either case, drain them on absorbent paper on a flat platter before serving, so that most of their oil will dribble away.
+- 4 cups fresh basil leaves (about 3 large bunches)
+- 1/2 cup olive oil
+- 1/3 cup pine nuts
+- 2 garlic cloves
+- 1/4 cup freshly grated Parmesan cheese
+- 1 teaspoon salt
 
-Sautee the sliced onion in 2 tablespoons vegetable oil, until it looks glistening. Add the meat and sauté together, stirring, until all the lumps are broken down and the meat starts to change colour. Pour in the wine, add tomatoes, sliced finely, the spices, salt and pepper and the oregano. Cover and cook for 20 minutes, stirring from time to time in case it sticks. Then mix in the grated cheese and parsley.
-Melt the butter and, away from the heat, gradually add the flour and stir to amalgamate. Return to the heat and gradually add the milk and seasoning, stirring continuously. Simmer for 9-10 minutes, stirring, until it has thickened considerably. Withdraw the pan from the heat, let it stand briefly, then add the cheese and the egg yolks. Stir to amalgamate them. Do not let the sauce boil after this.
 
-It should by now be a thick béchamel, to enable it to sit on top of the meat mixture and form a kind of crust.
+### Method
 
-To assemble, cover the base of the roasting dish with half of the fried aubergines, then spread half of the meat mixture evenly on top of them and cover neatly with the remaining aubergines. Spread the remaining meat and sauce evenly over the top and cover neatly with the béchamel sauce. Sprinkle the grated cheese all over the top, and the breadcrumbs. Moussaka from Macedonia may contain a layer of thinly sliced round potatoes which have been fried first. Bake in a pre-heated oven, gas no.4/ 350 grades F/ 180 grades C, for 1 hour, until a golden crust is formed all over the top. Let it stand for 5 minutes before serving, in order to be able to cut it more easily. To serve, cut into square or oblong-shaped pieces, about 8 cm thick. It should be quite dry by then and the pieces should ideally stay intact.
+Oh the smell of fresh basil! Take a second to enjoy deeply its **GREEN (VERDE)** colour and its aromatic essence. Making homemade pesto is really easy, but good quality ingredients play a very important role in the game.
 
-- Serves: 6
-- Preparation time: 1 hour
+Combine the first 4 ingredients in a blender. Blend until paste forms, stopping often to push down the basil. Add the Parmesan **CHEESE (QUESO)** and salt; blend until smooth. Transfer to small bowl.
+
+- Tip: This recipe can be made 1 day ahead. Top with a bit of **OLIVE OIL (ACEITE DE OLIVA)** and chill.
+- Variations: Keep the ratios in the recipe but you can change the greens, the nuts and the cheese.
+
+
+## 1.2 Basic Tomato Sauce
+
+### Ingredients
+
+- 2 tablespoons extra virgin olive oil
+- 1/2 onion, finely chopped
+- 1 small carrot, finely chopped
+- 1 small stalk of celery, including the green tops, finely chopped
+- 2 tablespoons of chopped fresh parsley
+- 1 clove of garlic, minced
+- Chopped fresh basil
+- 1 can whole tomatoes, including the juice, or 1 3/4 pound of fresh tomatoes, peeled, seeded, and chopped
+- 1 teaspoon tomato paste
+- Salt and freshly ground black pepper to taste
+
+### Method
+
+Heat olive oil in a large wide pan on medium heat. Add the chopped onion, carrot, celery and parsley. Give it a good stir.
+
+Reduce the heat to low, cover the pan and cook for 15 to 20 minutes, stirring occasionally until the vegetables are softened and cooked through.
+
+Add the minced garlic. Increase the heat to medium high. Cook **GARLIC (AJO)** for 30 seconds. Add tomatoes, tomato paste, basil, salt, pepper, then simmer. Add the tomatoes, including the juice and shredding them with your fingers if you are using canned whole tomatoes. Add the tomato paste and the basil. Season with salt and pepper to taste.
+
+Bring to a low simmer, reduce the heat to low and cook, uncover it until thickened, about 15 minutes..
+
+- Variations: The sauce can be dressed up with mushrooms, sausage, olives and all manner of vegetables.
+
+
+## 1.3 Bechamel or White Sauce
+
+### Ingredients
+- 2 tablespoons of butter
+- 2 tablespoons of flour
+- 1 1/2 cups of milk, heated
+- Salt
+- Freshly grounded pepper
+
+### Method
+
+Melt the BUTTER (MANTEQUILLA) in a heavy-bottomed saucepan.
+
+Stir in the flour and cook, stirring constantly, until the paste cooks and bubbles a bit, but don't let it brown – about 2 minutes.
+
+Add the hot milk, continuing to stir as the sauce thickens. Bring it to a BOIL (HERVIR). Add salt and pepper to taste, lower the heat, and cook, stirring for 2 to 3 minutes more. Remove from the heat.
+
+- Tip: To cool this sauce for later use, cover it with wax paper or pour a film of milk over it to prevent a skin from forming.
+- Variations: Stir in 1/2 cup grated Cheddar cheese during the last 2 minutes of cooking to convert it into a cheese sauce.
+
+## 1.4 Basic Mayonnaise
+
+###Ingredients
+- 1 egg yolk at room temperature
+- 175ml of olive oil
+
+### Method
+Place egg yolk in a medium metal bowl. Start whisking the egg while dripping the oil one drop at a time. It's very important to go slow and don't stop whisking.
+
+Once you have added half of the oil, you can start incorporating the rest of the oil faster. If the mayonnaise is getting too thick, you can add a tablespoon of water to help thin it out.
+
+- Tip: You can refrigerate it up to 3 days, well covered.
+
+## 1.5 Herb Mayonnaise
+
+### Ingredients
+- 175ml stiff basic mayonnaise
+- 1 tablespoon of lemon juice
+- 4 tablespoons of mixed herbs, finely chopped (parsley, chives, basil, tarragon...)
+- 1 garlic clove finely grated 
