@@ -2,10 +2,10 @@
 layout: post
 title: Anthropocene Fictions and the Human Imagination
 date: 2020-02-06 13:50
-published: false
+published: true
 header_feature_image: _uploads/sydwachs.jpg
 caption:
-tags:    # use [tag1,tag2]
+tags: -anthropocene # use [tag1,tag2]
 ---
 
 In an age where climatic disruption has become the new norm, it seems fitting to admit that recognising global warming requires much more than assenting to scientific data. As Adam Trexler notes in his book _Anthropocene Fictions_, the recognition of global warming brings with it the recognition of human implication in the geological and climatological transformation of our planet. But how to make that recognition comprehensive to the contemporary human imagination?
