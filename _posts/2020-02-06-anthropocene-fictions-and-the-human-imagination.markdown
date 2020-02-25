@@ -22,4 +22,5 @@ There seems to be this small movement of ‘Anthropocene fictions’ – books o
 Sources:
 
 _Anthropocene Fictions_ by Alex Trexler.
+
 _The Great Derangement_ by Amitav Ghosh.

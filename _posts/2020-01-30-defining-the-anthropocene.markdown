@@ -23,8 +23,11 @@ However self-centred and geologically inaccurate, a term like _'Anthropocene'_ i
 
 Articles:
 [What is the Anthropocene And Are We In It? (The Smithsonian Magazine)][4598f4ed]
+
 [The Anthropocene Epoch: Scientists Declare Dawn of Human-Influenced Age (The Guardian)][19078c2a]
+
 [What Is the Anthropocene And Why Does It Matter? (Natural History Museum)][1f01d961]
+
 [The Anthropocene Is A Joke (The Atlantic)][34c202c2]
 
   [4598f4ed]: https://www.smithsonianmag.com/science-nature/what-is-the-anthropocene-and-are-we-in-it-164801414/ "What is the Anthropocene And Are We In It? (The Smithsonian Magazine)"
