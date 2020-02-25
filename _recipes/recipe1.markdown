@@ -92,7 +92,7 @@ Add the hot milk, continuing to stir as the sauce thickens. Bring it to a BOIL (
 
 ## 1.4 Basic Mayonnaise
 
-###Ingredients
+### Ingredients
 - 1 egg yolk at room temperature
 - 175ml of olive oil
 
@@ -109,4 +109,4 @@ Once you have added half of the oil, you can start incorporating the rest of the
 - 175ml stiff basic mayonnaise
 - 1 tablespoon of lemon juice
 - 4 tablespoons of mixed herbs, finely chopped (parsley, chives, basil, tarragon...)
-- 1 garlic clove finely grated 
+- 1 garlic clove finely grated
