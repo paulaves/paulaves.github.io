@@ -10,7 +10,7 @@ tags: -anthropocene # use [tag1,tag2]
 
 In an age where climatic disruption has become the new norm, it seems fitting to admit that recognising global warming requires much more than assenting to scientific data. As Adam Trexler notes in his book _Anthropocene Fictions_, the recognition of global warming brings with it the recognition of human implication in the geological and climatological transformation of our planet. But how to make that recognition comprehensive to the contemporary human imagination?
 
-> ‘If culture can be used to denote human styles of building, interacting with, and relating to the world, the Anthropocene also indicates a cultural transformation that cannot be described through a rubric of belief.’
+> If culture can be used to denote human styles of building, interacting with, and relating to the world, the Anthropocene also indicates a cultural transformation that cannot be described through a rubric of belief.
   – Alex Trexler
 
 There have been attempts to explore the meaning and consequences of climate change through documentaries, films and non-fiction books. However, they lack the novel’s capacity to interrogate the emotional implication of these events. As Trexler emphasises throughout his work, the collective networks of complex ideas and meanings that conform novels about climate change – what he calls ‘Anthropocene fictions’ – can provide a way of describing the patterning of and help us make sense this enormous cultural shift. However, up until this moment, there are very few novels tackling the physical and psychological challenges of this man-made phenomenon.
@@ -21,5 +21,5 @@ There seems to be this small movement of ‘Anthropocene fictions’ – books o
 
 Sources:
 
-- _Anthropocene Fictions_ by Alex Trexler.
-- _The Great Derangement_ by Amitav Ghosh.
+_Anthropocene Fictions_ by Alex Trexler.
+_The Great Derangement_ by Amitav Ghosh.

@@ -17,15 +17,15 @@ However, the demand by multiple environmentalists to make _Anthropocene_ the def
 
 Environmental author, and self-proclaimed 'carbon cycle correspondent,' Peter Brannen, seems to support geologists' concerns in his article for _The Atlantic_ – humouredly titled 'The Anthropocene is a Joke' – and goes so far as to criticise the idea of the _Anthropocene_ as an 'interesting thought experiment' whose only purpose is that of inflating humanity's legacy. His argument states that 'virtually no geological record will remain of us' and that the idea of a new geological epoch is incredibly selfish and human-centred, as it implies that we, humans, and our technological creations, will persist into the future on a timescale of millions of years – something which seems improbable considering the catastrophic effects (for our species) of global warming.
 
-> 'The idea of the Anthropocene inflates our own importance by promising eternal geological life to our creations. It is of a thread with our species' peculiar, self-styled exceptionalism – from the animal kingdom, from nature, from the systems that govern it, from time itself. This illusion may, in the long run, get us all killed.'
+> The idea of the Anthropocene inflates our own importance by promising eternal geological life to our creations. It is of a thread with our species' peculiar, self-styled exceptionalism – from the animal kingdom, from nature, from the systems that govern it, from time itself. This illusion may, in the long run, get us all killed.
 
 However self-centred and geologically inaccurate, a term like _'Anthropocene'_ is useful in defining the current time period in a way that combines all these environmental ideas. As Andrew Revkin points out: 'we're the first species that's become a planet-scale influence and is aware of that reality,' and having a term for it reflects our awareness, and enables our ability to engage, not only scientifically, but culturally with the environmental impacts of our species.
 
 Articles:
-- [What is the Anthropocene And Are We In It? (The Smithsonian Magazine)][4598f4ed]
-- [The Anthropocene Epoch: Scientists Declare Dawn of Human-Influenced Age (The Guardian)][19078c2a]
-- [What Is the Anthropocene And Why Does It Matter? (Natural History Museum)][1f01d961]
-- [The Anthropocene Is A Joke (The Atlantic)][34c202c2]
+[What is the Anthropocene And Are We In It? (The Smithsonian Magazine)][4598f4ed]
+[The Anthropocene Epoch: Scientists Declare Dawn of Human-Influenced Age (The Guardian)][19078c2a]
+[What Is the Anthropocene And Why Does It Matter? (Natural History Museum)][1f01d961]
+[The Anthropocene Is A Joke (The Atlantic)][34c202c2]
 
   [4598f4ed]: https://www.smithsonianmag.com/science-nature/what-is-the-anthropocene-and-are-we-in-it-164801414/ "What is the Anthropocene And Are We In It? (The Smithsonian Magazine)"
   [19078c2a]: https://www.theguardian.com/environment/2016/aug/29/declare-anthropocene-epoch-experts-urge-geological-congress-human-impact-earth "The Anthropocene Epoch: Scientists Declare Dawn of Human-Influenced Age (The Guardian)"
