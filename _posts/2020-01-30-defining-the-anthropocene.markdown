@@ -22,6 +22,7 @@ Environmental author, and self-proclaimed 'carbon cycle correspondent,' Peter Br
 However self-centred and geologically inaccurate, a term like _'Anthropocene'_ is useful in defining the current time period in a way that combines all these environmental ideas. As Andrew Revkin points out: 'we're the first species that's become a planet-scale influence and is aware of that reality,' and having a term for it reflects our awareness, and enables our ability to engage, not only scientifically, but culturally with the environmental impacts of our species.
 
 Articles:
+
 [What is the Anthropocene And Are We In It? (The Smithsonian Magazine)][4598f4ed]
 
 [The Anthropocene Epoch: Scientists Declare Dawn of Human-Influenced Age (The Guardian)][19078c2a]
