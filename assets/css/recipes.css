@@ -113,7 +113,13 @@ ul.recipes a {
 
 }
 
-body.recipeshome {
-
-  background:yellow;
+body.recipeshome div.content {
+  padding: 40px;
+  width: 70%;
+  background-color: white;
+  margin-right: auto;
+  margin-left: auto;
+  max-width: 1000px;
+  min-width: 300px;
+  color: #383838;
 }
