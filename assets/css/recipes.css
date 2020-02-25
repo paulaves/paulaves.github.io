@@ -62,7 +62,7 @@ img.cover {
 float:right;
 width:30%;
 margin:12px;
-border: 1px solid #383838
+border: 1px solid #383838;
 }
 
 
@@ -111,4 +111,9 @@ ul.recipes {
 
 ul.recipes a {
 
+}
+
+body.recipeshome {
+
+  background:yellow;
 }
