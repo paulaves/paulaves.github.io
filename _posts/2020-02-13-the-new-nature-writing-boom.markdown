@@ -5,10 +5,7 @@ date: 2020-02-13 10:29
 published: true
 header_feature_image: _uploads/meelikamarzzarella.jpg
 caption:
-tags:  Anthropocene
-New Nature Writing
-Literature
-# use [tag1,tag2]
+tags:  Anthropocene, New Nature Writing, Literature # use [tag1,tag2]
 ---
 
 With the increasing industrialisation of our society and the rise of new technologies and social media, it might come as a surprise the recent literary boom that nature writing is experiencing. This literary boom has led to the denomination of a new movement within the genre: the New Nature Writing movement. This new movement brings with it the delicacy of language and acute observation found in old-style nature writing, and promises a re-imagination of ourselves into purer, more authentic, beings in touch with nature; breaking down the shackles of our concrete jungles and running free into the wild, English countryside.
