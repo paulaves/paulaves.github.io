@@ -14,7 +14,7 @@ tags:
 
 <!--more-->
 
-[![Vegetable Stir Fry](/_uploads/vegetablestirfry1.jpg)](/_uploads/vegetablestirfry1.jpg)
+[![Vegetable Stir Fry](/_uploads/vegetablestirfry1.png)](/_uploads/vegetablestirfry1.png)
 
 ## Ingredients:
 - 2tbsp of olive oil
