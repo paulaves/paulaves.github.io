@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: Banana Pancakes
+title: 2. Banana Pancakes
 date: 2019-10-19
 excerpt_separator: <!--more-->
 published: true
@@ -14,7 +14,7 @@ tags:
 
 <!--more-->
 
-[![Banana Pancakes](/_uploads/bananapancakes1.jpg)](/_uploads/bananapancakes1.jpg)
+[![Banana Pancakes](/_uploads/bananapancakes1.png)](/_uploads/bananapancakes1.png)
 
 ## Ingredients
 - 350g of self-rising flour

@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: Salad
+title: 8. Salad
 date: 2019-10-19
 excerpt_separator: <!--more-->
 published: true

@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: Vegetable Stir Fry
+title: 7. Vegetable Stir Fry
 date: 2019-10-19
 excerpt_separator: <!--more-->
 published: true

@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: Peanut Butter
+title: 3. Peanut Butter
 date: 2019-10-19
 excerpt_separator: <!--more-->
 published: true

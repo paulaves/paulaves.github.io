@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: Tomato Sauce
+title: 4. Tomato Sauce
 date: 2019-10-19
 excerpt_separator: <!--more-->
 published: true
@@ -15,7 +15,7 @@ tags:
 
 <!--more-->
 
-[![Tomato Sauce](/_uploads/tomatosauce1.jpg)](/_uploads/tomatosauce1.jpg)
+[![Tomato Sauce](/_uploads/tomatoauce1.jpg)](/_uploads/tomatoauce1.jpg)
 
 ## Ingredients
 

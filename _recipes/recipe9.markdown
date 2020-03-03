@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: Spanish Omelette
+title: 9. Spanish Omelette
 date: 2019-10-19
 excerpt_separator: <!--more-->
 published: true
