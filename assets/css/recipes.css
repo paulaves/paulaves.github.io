@@ -14,6 +14,7 @@ img {
   width: 35%;
   border: 1px solid #383838;
   margin-left: 15px;
+  margin-bottom: 15px;
 }
 
 h1.title {
@@ -138,4 +139,11 @@ body.recipeshome div.branding {
 
 body.recipeshome header.site-header {
   display: none;
+}
+
+@media screen and (max-width: 720px) {
+
+  img {
+    float: none;
+  }
 }
