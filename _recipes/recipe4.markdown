@@ -15,7 +15,7 @@ tags:
 
 <!--more-->
 
-[![Tomato Sauce](/_uploads/tomatoauce1.jpg)](/_uploads/tomatoauce1.jpg)
+[![Tomato Sauce](/_uploads/tomatoauce1.png)](/_uploads/tomatoauce1.png)
 
 ## Ingredients
 
