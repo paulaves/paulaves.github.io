@@ -63,8 +63,9 @@ margin-bottom: 0;
 
 img.cover {
 float: none;
-width:20%;
+width:30%;
 display: block;
+margin-top: 100px;
 margin-left: auto;
 margin-right: auto;
 border: 1px solid #383838;
