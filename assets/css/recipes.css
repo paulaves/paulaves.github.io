@@ -62,10 +62,11 @@ margin-bottom: 0;
 }
 
 img.cover {
-float:right;
+float: none;
 width:20%;
-margin:30px;
-margin-right: 350px;
+display: block;
+margin-left: auto;
+margin-right: auto;
 border: 1px solid #383838;
 }
 
