@@ -12,6 +12,7 @@ html {
 img {
   float:right;
   max-width: 50%;
+  border: 1px solid #383838;
 }
 
 h1.title {
