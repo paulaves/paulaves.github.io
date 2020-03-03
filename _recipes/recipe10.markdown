@@ -14,7 +14,7 @@ tags:
 
 <!--more-->
 
-[![Vegetable Soup](/_uploads/vegetablesoup1.jpg)](/_uploads/vegetablesoup1.jpg)
+[![Vegetable Soup](/_uploads/vegetablesoup2.jpg)](/_uploads/vegetablesoup2.jpg)
 
 ## Ingredients:
 - 1tbsp of olive oil
