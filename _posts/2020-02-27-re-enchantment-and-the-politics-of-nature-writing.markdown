@@ -2,7 +2,7 @@
 layout: post
 title: Re-Enchantment and the Politics of Nature Writing
 date: 2020-02-27 16:46
-published: false
+published: true 
 header_feature_image: _uploads/alexandersinn1.jpg
 caption:
 tags:  environment, ecology, politics, writing, nature, books  # use [tag1,tag2]
