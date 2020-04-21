@@ -3,7 +3,7 @@ layout: post
 title: Eco-Anxiety and the Responsibility of Publishers
 date: 2020-04-23 13:28
 published: true
-header_feature_image: _uploads/forestfires.jpg
+header_feature_image: _uploads/forestfire2.jpg
 caption:
 tags:   mental healt, eco-anxiety, environment, literature, publishing, books # use [tag1,tag2]
 ---

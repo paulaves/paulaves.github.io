@@ -3,7 +3,7 @@ layout: post
 title: The 'Greta Effect' and the Genesis of the Eco-Reader
 date: 2020-04-02 13:42
 published: true
-header_feature_image: _uploads/gretaeffect.jpg
+header_feature_image: _uploads/naturepainting.jpg
 caption:
 tags:   Greta Thunberg, Environment, Climate Change, Children's Books, Literature, Reading # use [tag1,tag2]
 ---
