@@ -3,7 +3,7 @@ layout: post
 title: Anthropocene Fictions and the Human Imagination
 date: 2020-02-06 13:50
 published: true
-header_feature_image: _uploads/sydwachs.jpg
+header_feature_image: /uploads/sydwachs.jpg
 caption:
 tags: Anthropocene # use [tag1,tag2]
 ---

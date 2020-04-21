@@ -3,7 +3,7 @@ layout: post
 title: Defining the Anthropocene
 date: 2020-01-30 12:30
 published: true
-header_feature_image: _/uploads/usgs1.jpg
+header_feature_image: /uploads/usgs1.jpg
 caption:
 tags:    
 - Anthropocene # use [tag1,tag2]
