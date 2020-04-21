@@ -3,7 +3,7 @@ layout: post
 title: Here is a sample blog post
 date: 2019-10-19
 published: false
-header_feature_image: _uploads/tomatoes.jpg
+header_feature_image: _/uploads/tomatoes.jpg
 caption: "Juicy Tomatoes"
 tags:
   - Journalism
